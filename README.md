@@ -12,7 +12,7 @@ A comprehensive analysis of soil degradation in Karnataka, India (2015-2019) usi
    - Using NIR, SWIR, and Red bands
    - Analysis of magnitude (rho) and direction (alpha) of change
 
-3. 🗺**RUSLE with Ancillary Data**
+3. **RUSLE with Ancillary Data**
    - Rainfall erosivity factor (R)
    - Soil erodibility factor (K)
    - Slope length and steepness factor (LS)
