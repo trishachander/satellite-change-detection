@@ -1,9 +1,9 @@
-# Monitoring Soil Degradation with Remote Sensing 🛰️
+# 🛰️Monitoring Soil Degradation with Remote Sensing
 
-## Overview 🌍
+## 🌍Overview
 A comprehensive analysis of soil degradation in Karnataka, India (2015-2019) using remote sensing techniques and Google Earth Engine. The project implements three different change detection methods to assess and visualize land degradation patterns, achieving up to 76.3% accuracy.
 
-## Methods 📊
+## 📊Methods
 1. **Index Differencing**
    - NDVI (Normalized Difference Vegetation Index)
    - BI (Bare Soil Index)
@@ -12,25 +12,25 @@ A comprehensive analysis of soil degradation in Karnataka, India (2015-2019) usi
    - Using NIR, SWIR, and Red bands
    - Analysis of magnitude (rho) and direction (alpha) of change
 
-3. **RUSLE with Ancillary Data** 🗺️
+3. 🗺**RUSLE with Ancillary Data**
    - Rainfall erosivity factor (R)
    - Soil erodibility factor (K)
    - Slope length and steepness factor (LS)
    - Cover management factor (C)
    - Conservation practice factor (P)
 
-## Results 📈
+## 📈Results
 - Index Differencing: 60.3% accuracy with BI
 - Change Vector Analysis: 50.05% accuracy
 - RUSLE with Ancillary Data: 76.3% accuracy
 
-## Tech Stack 🛠️
+## 🛠️Tech Stack
 - Google Earth Engine
 - Remote Sensing
 - RUSLE (Revised Universal Soil Loss Equation)
 - Change Detection Analysis
 
-## Data Sources 📚
+## 📚Data Sources
 - USGS Landsat 8 Level 2
 - MODIS Land Cover
 - CHIRPS Dataset
